@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/kakkararmaan22/Ap/tree/master/0099-recover-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [3429-special-array-i](https://github.com/kakkararmaan22/Ap/tree/master/3429-special-array-i) |
 <!---LeetCode Topics End-->
