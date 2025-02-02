@@ -8,7 +8,7 @@ public:
             if (nums[i] > nums[(i + 1) % n]) {
                 count++;
             }
-            if (count > 1) return false;  // More than one drop means not sorted & rotated
+            if (count > 1) return false;  
         }
         
         return true;
