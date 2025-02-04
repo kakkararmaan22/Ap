@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kakkararmaan22/Ap/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kakkararmaan22/Ap/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/kakkararmaan22/Ap/tree/master/0141-linked-list-cycle) |
 ## Hash Table
 |  |
@@ -35,5 +36,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kakkararmaan22/Ap/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/kakkararmaan22/Ap/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
