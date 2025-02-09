@@ -22,6 +22,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kakkararmaan22/Ap/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kakkararmaan22/Ap/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2448-count-number-of-bad-pairs](https://github.com/kakkararmaan22/Ap/tree/master/2448-count-number-of-bad-pairs) |
 | [3429-special-array-i](https://github.com/kakkararmaan22/Ap/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
@@ -33,9 +34,18 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kakkararmaan22/Ap/tree/master/0141-linked-list-cycle) |
+| [2448-count-number-of-bad-pairs](https://github.com/kakkararmaan22/Ap/tree/master/2448-count-number-of-bad-pairs) |
 ## Linked List
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kakkararmaan22/Ap/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/kakkararmaan22/Ap/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/kakkararmaan22/Ap/tree/master/2448-count-number-of-bad-pairs) |
+## Counting
+|  |
+| ------- |
+| [2448-count-number-of-bad-pairs](https://github.com/kakkararmaan22/Ap/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
