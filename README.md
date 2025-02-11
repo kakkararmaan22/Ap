@@ -53,14 +53,17 @@
 ## String
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/kakkararmaan22/Ap/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/kakkararmaan22/Ap/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/kakkararmaan22/Ap/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/kakkararmaan22/Ap/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/kakkararmaan22/Ap/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/kakkararmaan22/Ap/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
