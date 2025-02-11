@@ -68,7 +68,7 @@ public:
         ListNode* leftHead = head;
         ListNode* rightHead = middle->next;
         middle->next = nullptr;
-        
+
         return merge(sortList(leftHead), sortList(rightHead));
     }
 };
