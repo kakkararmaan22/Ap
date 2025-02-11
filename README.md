@@ -30,6 +30,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kakkararmaan22/Ap/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kakkararmaan22/Ap/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/kakkararmaan22/Ap/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kakkararmaan22/Ap/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kakkararmaan22/Ap/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/kakkararmaan22/Ap/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/kakkararmaan22/Ap/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -60,4 +62,16 @@
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/kakkararmaan22/Ap/tree/master/3447-clear-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kakkararmaan22/Ap/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kakkararmaan22/Ap/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kakkararmaan22/Ap/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
