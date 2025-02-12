@@ -23,6 +23,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kakkararmaan22/Ap/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kakkararmaan22/Ap/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/kakkararmaan22/Ap/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kakkararmaan22/Ap/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3429-special-array-i](https://github.com/kakkararmaan22/Ap/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kakkararmaan22/Ap/tree/master/0141-linked-list-cycle) |
 | [2448-count-number-of-bad-pairs](https://github.com/kakkararmaan22/Ap/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kakkararmaan22/Ap/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -73,8 +75,13 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kakkararmaan22/Ap/tree/master/0148-sort-list) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kakkararmaan22/Ap/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kakkararmaan22/Ap/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kakkararmaan22/Ap/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
