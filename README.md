@@ -24,6 +24,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kakkararmaan22/Ap/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/kakkararmaan22/Ap/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kakkararmaan22/Ap/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kakkararmaan22/Ap/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/kakkararmaan22/Ap/tree/master/3429-special-array-i) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kakkararmaan22/Ap/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kakkararmaan22/Ap/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/kakkararmaan22/Ap/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
@@ -84,4 +86,5 @@
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kakkararmaan22/Ap/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kakkararmaan22/Ap/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
