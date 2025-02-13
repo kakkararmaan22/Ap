@@ -15,6 +15,6 @@ public:
             pq.push(min(x, y) * 2 + max(x, y));
             cnt++;
         }
-        return cnt;
+        return (pq.top() >= k) ? cnt : -1; 
     }
 };
