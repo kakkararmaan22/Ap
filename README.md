@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/kakkararmaan22/Ap/tree/master/0099-recover-binary-search-tree) |
+| [1046-max-consecutive-ones-iii](https://github.com/kakkararmaan22/Ap/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kakkararmaan22/Ap/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/kakkararmaan22/Ap/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kakkararmaan22/Ap/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kakkararmaan22/Ap/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kakkararmaan22/Ap/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -104,6 +106,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/kakkararmaan22/Ap/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kakkararmaan22/Ap/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
@@ -114,4 +117,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kakkararmaan22/Ap/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/kakkararmaan22/Ap/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
