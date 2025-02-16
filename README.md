@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kakkararmaan22/Ap/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0940-fruit-into-baskets](https://github.com/kakkararmaan22/Ap/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kakkararmaan22/Ap/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/kakkararmaan22/Ap/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kakkararmaan22/Ap/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kakkararmaan22/Ap/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/kakkararmaan22/Ap/tree/master/0141-linked-list-cycle) |
+| [0940-fruit-into-baskets](https://github.com/kakkararmaan22/Ap/tree/master/0940-fruit-into-baskets) |
 | [2448-count-number-of-bad-pairs](https://github.com/kakkararmaan22/Ap/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kakkararmaan22/Ap/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Linked List
@@ -117,5 +119,6 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kakkararmaan22/Ap/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/kakkararmaan22/Ap/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kakkararmaan22/Ap/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
