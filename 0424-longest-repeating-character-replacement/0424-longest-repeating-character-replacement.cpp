@@ -14,7 +14,6 @@ public:
             if(changes>k) {
                 mp[s[left]]--;
                 left++;
-                if(mp[s[left]] == 0) mp.erase(s[left]);
             }
         }
         return maxLen;
