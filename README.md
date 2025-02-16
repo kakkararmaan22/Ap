@@ -43,6 +43,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kakkararmaan22/Ap/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/kakkararmaan22/Ap/tree/master/0141-linked-list-cycle) |
+| [0424-longest-repeating-character-replacement](https://github.com/kakkararmaan22/Ap/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/kakkararmaan22/Ap/tree/master/0940-fruit-into-baskets) |
 | [2448-count-number-of-bad-pairs](https://github.com/kakkararmaan22/Ap/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kakkararmaan22/Ap/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kakkararmaan22/Ap/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kakkararmaan22/Ap/tree/master/0424-longest-repeating-character-replacement) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kakkararmaan22/Ap/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/kakkararmaan22/Ap/tree/master/3447-clear-digits) |
 ## Stack
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kakkararmaan22/Ap/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kakkararmaan22/Ap/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/kakkararmaan22/Ap/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/kakkararmaan22/Ap/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
