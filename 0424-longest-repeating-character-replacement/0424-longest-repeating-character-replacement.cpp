@@ -14,7 +14,6 @@ public:
             if(changes>k) {
                 mp[s[left]]--;
                 left++;
-                maxFreq =0;
             }
         }
         return maxLen;
