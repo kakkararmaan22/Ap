@@ -8,7 +8,6 @@ public:
             mp[s[right]]++;
             maxFreq = max(maxFreq, mp[s[right]]);
             if((right - left + 1) - maxFreq > k) {
-                if(mp[s[left]] == maxFreq) maxFreq = 0;
                 mp[s[left]]--;
                 left++;
             }
